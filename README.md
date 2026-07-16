@@ -47,8 +47,3 @@ for whatever's left. That one rule drives everything the app can say:
 - **Built conversationally with Claude** — designing the engine, arguing the
   architecture through several rebuilds, and testing against edge cases (staged
   goals, challenges, past-due deadlines) rather than writing boilerplate by hand.
-
-## Run it
-
-Open `index.html` in any browser. To publish: push to GitHub, enable Pages
-(Settings → Pages → deploy from `main`, root), and paste the resulting URL above.
